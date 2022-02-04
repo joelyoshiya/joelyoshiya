@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### 🤔 I’m looking for help with learning web dev
+#### 🤔 I’m currently interested in pursuing New Grad positions as a Software Engineer.
 <!--[![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joelyoshiya)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
